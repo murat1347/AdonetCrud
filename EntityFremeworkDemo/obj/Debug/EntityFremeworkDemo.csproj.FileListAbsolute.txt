@@ -1,0 +1,15 @@
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\bin\Debug\EntityFremeworkDemo.exe.config
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\bin\Debug\EntityFremeworkDemo.exe
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\bin\Debug\EntityFremeworkDemo.pdb
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\obj\Debug\EntityFremeworkDemo.csproj.AssemblyReference.cache
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\obj\Debug\EntityFremeworkDemo.Form1.resources
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\obj\Debug\EntityFremeworkDemo.Properties.Resources.resources
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\obj\Debug\EntityFremeworkDemo.csproj.GenerateResource.cache
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\obj\Debug\EntityFremeworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\obj\Debug\EntityFremeworkDemo.csproj.CopyComplete
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\obj\Debug\EntityFremeworkDemo.exe
+C:\Users\Murat\source\repos\AdonetDemo\EntityFremeworkDemo\obj\Debug\EntityFremeworkDemo.pdb
